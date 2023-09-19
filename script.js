@@ -27,8 +27,8 @@ class ToDoList {
 } 
 const todoList = new ToDoList();
 
-const todo1 = new ToDo();
-const todo2 = new ToDo()
+const todo1 = new ToDo('18-9-2023');
+const todo2 = new ToDo('19-9-2023');
 todo1.addWork("work 1");
 todo1.addWork("work 2");
 todo2.addWork('work 1');
